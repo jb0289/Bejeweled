@@ -1,7 +1,7 @@
 # Bejeweled
 
 ## Repository
-- Public GitHub link: `https://github.com/jb1645/Bejeweled.git`
+- Public GitHub link: `https://github.com/jb0289/Bejeweled.git`
 
 ## Build and Run
 - Build: `dotnet build Bejeweled.sln`
