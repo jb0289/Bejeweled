@@ -81,7 +81,7 @@ The resolver returns total removed gems for score updates.
 - Rejected adding `IEquatable<Position>` because tuple-based dedupe already solved overlap handling.
 
 ## UML Design
-![Bejeweled UML Diagram](./uml-diagram.png)
+![Bejeweled UML Diagram](../uml-diagram.png)
 
 ## Test Results
 - Build: `dotnet build Bejeweled.sln` succeeded with 0 errors and 0 warnings.
