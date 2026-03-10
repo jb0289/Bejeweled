@@ -62,7 +62,7 @@ I use a `Position` class with `x` and `y` fields. This is cleaner than passing r
 - Rejected using `Distinct().ToList()` because `HashSet` already handles duplicates.
 
 ## UML
-![Bejeweled UML Diagram](Bejeweled/uml-diagram.png)
+![UML](Bejeweled/uml-diagram.png)
 
 ## Test Results
 - Build: `dotnet build Bejeweled.sln` succeeded with 0 errors and 0 warnings.

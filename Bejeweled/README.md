@@ -66,7 +66,7 @@ I use a `Position` class with `x` and `y` fields. This is cleaner than passing r
 - Rejected using Distinct() with ToList() — HashSet already handles duplicates
 - Rejected the AI's original TryReadSwapInput with 3 out parameters — too complicated, separated the quit logic into RunGame instead
 ## UML
-![Bejeweled UML Diagram](./uml-diagram.png)
+![UML](./uml-diagram.png)
 
 ## Test Results
 - Build: `dotnet build Bejeweled.sln` succeeded with 0 errors and 0 warnings.
