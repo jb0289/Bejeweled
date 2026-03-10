@@ -64,11 +64,6 @@ I use a `Position` class with `x` and `y` fields. This is cleaner than passing r
 ## UML Design
 ![Bejeweled UML Diagram](Bejeweled/uml-diagram.png)
 
-## Program
-- Source file: [Bejeweled/Program.cs](Bejeweled/Program.cs)
-- Entry point: `Main()` calls `RunGame()`.
-- Game flow: print board, read swap input, validate move, swap, resolve cascades, repeat until `q`.
-
 ## Test Results
 - Build: `dotnet build Bejeweled.sln` succeeded with 0 errors and 0 warnings.
 - Demo run:
