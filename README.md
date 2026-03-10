@@ -61,7 +61,7 @@ I use a `Position` class with `x` and `y` fields. This is cleaner than passing r
 - Rejected adding `IEquatable` to `Position`; unnecessary when `x,y` pairs already solve deduplication.
 - Rejected using `Distinct().ToList()` because `HashSet` already handles duplicates.
 
-## UML Design
+## UML
 ![Bejeweled UML Diagram](Bejeweled/uml-diagram.png)
 
 ## Test Results

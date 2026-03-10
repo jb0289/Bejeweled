@@ -65,7 +65,7 @@ I use a `Position` class with `x` and `y` fields. This is cleaner than passing r
 - Rejected adding IEquatable to Position — overkill when x,y pairs solve the problem
 - Rejected using Distinct() with ToList() — HashSet already handles duplicates
 - Rejected the AI's original TryReadSwapInput with 3 out parameters — too complicated, separated the quit logic into RunGame instead
-## UML Design
+## UML
 ![Bejeweled UML Diagram](./uml-diagram.png)
 
 ## Test Results
