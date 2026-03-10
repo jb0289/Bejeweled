@@ -1,4 +1,4 @@
-# GenAI Chat History
+# AI Chat Log
 
 Date: March 9, 2026  
 Project: Bejeweled
